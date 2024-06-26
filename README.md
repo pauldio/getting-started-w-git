@@ -1,1 +1,1 @@
-# getting-started-w-git
+# getting-started-with-git
